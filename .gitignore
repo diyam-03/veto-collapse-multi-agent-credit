@@ -1,0 +1,23 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+debiasing_main.backup.ipynb
