@@ -1,5 +1,5 @@
 # Veto Collapse in Multi-Agent LLM Credit Decisions
-
+   
 Research project investigating decision consistency, fairness-related counterfactuals, and approval outcomes in LLM-based credit decision settings.
 
 ## Research Overview
